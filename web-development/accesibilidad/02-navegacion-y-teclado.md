@@ -86,8 +86,8 @@ Un **Skip Link** es un enlace oculto al inicio de la página que, al pulsarlo, l
 
 ## Recursos
 
-* **[Guía de Navegación por Teclado (MDN)](https://developer.mozilla.org/es/docs/Web/Accessibility/Keyboard-navigability)**: Documentación exhaustiva sobre los principios del teclado.
-* **[Skip Link Design Pattern](https://www.w3.org/WAI/tutorials/page-structure/skiplinks/)**: La mejor explicación del patrón de enlaces de salto.
+* **[Guía de Navegación por Teclado (MDN)](https://developer.mozilla.org/es/docs/Web/Accessibility/Guides/Understanding_WCAG/Keyboard)**: Documentación exhaustiva sobre los principios del teclado.
+* **[Skip Link Design Pattern](https://www.w3.org/WAI/test-evaluate/easy-checks/skip-link/)**: La mejor explicación del patrón de enlaces de salto.
 
 ---
 
